@@ -1,0 +1,193 @@
+country,name
+afg,Afghanistan
+alb,Albania
+dza,Algeria
+ago,Angola
+arg,Argentina
+arm,Armenia
+aus,Australia
+aut,Austria
+aze,Azerbaijan
+bhs,Bahamas
+bhr,Bahrain
+bgd,Bangladesh
+brb,Barbados
+blr,Belarus
+bel,Belgium
+blz,Belize
+ben,Benin
+btn,Bhutan
+bol,"Bolivia, Plurinational State of"
+bih,Bosnia and Herzegovina
+bwa,Botswana
+bra,Brazil
+brn,Brunei Darussalam
+bgr,Bulgaria
+bfa,Burkina Faso
+bdi,Burundi
+khm,Cambodia
+cmr,Cameroon
+can,Canada
+cpv,Cape Verde
+caf,Central African Republic
+tcd,Chad
+cha,Channel Islands
+chl,Chile
+chn,China
+col,Colombia
+com,Comoros
+cog,Congo
+cod,"Congo, Democratic Republic of the"
+cri,Costa Rica
+civ,Côte d'Ivoire
+hrv,Croatia
+cub,Cuba
+cyp,Cyprus
+cze,Czech Republic
+dnk,Denmark
+dji,Djibouti
+dom,Dominican Republic
+ecu,Ecuador
+egy,Egypt
+slv,El Salvador
+gnq,Equatorial Guinea
+eri,Eritrea
+est,Estonia
+eth,Ethiopia
+fji,Fiji
+fin,Finland
+fra,France
+guf,French Guiana
+pyf,French Polynesia
+gab,Gabon
+gmb,Gambia
+geo,Georgia
+deu,Germany
+gha,Ghana
+grc,Greece
+glp,Guadeloupe
+gum,Guam
+gtm,Guatemala
+gin,Guinea
+gnb,Guinea-Bissau
+guy,Guyana
+hti,Haiti
+hnd,Honduras
+hkg,"Hong Kong, China"
+hun,Hungary
+isl,Iceland
+ind,India
+idn,Indonesia
+irn,"Iran, Islamic Republic of"
+irq,Iraq
+irl,Ireland
+isr,Israel
+ita,Italy
+jam,Jamaica
+jpn,Japan
+jor,Jordan
+kaz,Kazakhstan
+ken,Kenya
+prk,"Korea, Democratic People's Republic of"
+kor,"Korea, Republic of"
+kwt,Kuwait
+kgz,Kyrgyzstan
+lao,Lao People's Democratic Republic
+lva,Latvia
+lbn,Lebanon
+lso,Lesotho
+lbr,Liberia
+lby,Libya
+ltu,Lithuania
+lux,Luxembourg
+mac,"Macau, China"
+mkd,"Macedonia, the former Yugoslav Republic of"
+mdg,Madagascar
+mwi,Malawi
+mys,Malaysia
+mdv,Maldives
+mli,Mali
+mlt,Malta
+mtq,Martinique
+mrt,Mauritania
+mus,Mauritius
+mex,Mexico
+mda,"Moldova, Republic of"
+mng,Mongolia
+mne,Montenegro
+mar,Morocco
+moz,Mozambique
+mmr,Myanmar
+nam,Namibia
+npl,Nepal
+nld,Netherlands
+ncl,New Caledonia
+nzl,New Zealand
+nic,Nicaragua
+ner,Niger
+nga,Nigeria
+nor,Norway
+omn,Oman
+pak,Pakistan
+pan,Panama
+png,Papua New Guinea
+pry,Paraguay
+per,Peru
+phl,Philippines
+pol,Poland
+prt,Portugal
+pri,Puerto Rico
+qat,Qatar
+reu,Réunion
+rou,Romania
+rus,Russian Federation
+rwa,Rwanda
+lca,Saint Lucia
+vct,Saint Vincent and the Grenadines
+wsm,Samoa
+stp,Sao Tome and Principe
+sau,Saudi Arabia
+sen,Senegal
+srb,Serbia
+sle,Sierra Leone
+sgp,Singapore
+svk,Slovakia
+svn,Slovenia
+slb,Solomon Islands
+som,Somalia
+zaf,South Africa
+esp,Spain
+lka,Sri Lanka
+sdn,Sudan
+sur,Suriname
+swz,Swaziland
+swe,Sweden
+che,Switzerland
+syr,Syrian Arab Republic
+twn,"Taiwan, China"
+tjk,Tajikistan
+tza,"Tanzania, United Republic of"
+tha,Thailand
+tls,Timor-Leste
+tgo,Togo
+ton,Tonga
+tto,Trinidad and Tobago
+tun,Tunisia
+tur,Turkey
+tkm,Turkmenistan
+uga,Uganda
+ukr,Ukraine
+are,United Arab Emirates
+gbr,United Kingdom
+usa,United States
+vir,United States Virgin Islands
+ury,Uruguay
+uzb,Uzbekistan
+vut,Vanuatu
+ven,"Venezuela, Bolivarian Republic of"
+vnm,Viet Nam
+pse,West Bank and Gaza Strip
+esh,Western Sahara
+yem,Yemen
+zmb,Zambia
+zwe,Zimbabwe

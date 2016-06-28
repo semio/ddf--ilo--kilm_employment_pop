@@ -1,0 +1,9 @@
+key,value,file
+concept,name,ddf--concepts.csv
+concept,concept_type,ddf--concepts.csv
+"country,sex,age_group,year",employment_000,ddf--datapoints--employment_000--by--country--sex--age_group--year.csv
+"country,sex,age_group,year",employment_to_population_ratio,ddf--datapoints--employment_to_population_ratio--by--country--sex--age_group--year.csv
+"country,sex,age_group,year",population_000,ddf--datapoints--population_000--by--country--sex--age_group--year.csv
+age_group,name,ddf--entities--age_group.csv
+country,name,ddf--entities--country.csv
+sex,name,ddf--entities--sex.csv

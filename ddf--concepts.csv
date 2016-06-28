@@ -1,0 +1,9 @@
+concept,name,concept_type
+name,Name,string
+year,Year,time
+country,Country,entity_domain
+sex,Sex,entity_domain
+age_group,Age Group,entity_domain
+employment_000,Employment ('000),measure
+population_000,Population ('000),measure
+employment_to_population_ratio,Employment- to-population ratio,measure
