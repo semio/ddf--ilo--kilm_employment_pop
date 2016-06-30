@@ -1,4 +1,4 @@
-country,sex,age_group,year,employment_000
+country,sex,age_group,year,employment_thousands
 afg,mf,total,1991,3047.87109375
 afg,mf,youth,1991,861.978271484375
 afg,mf,adult,1991,2185.89306640625

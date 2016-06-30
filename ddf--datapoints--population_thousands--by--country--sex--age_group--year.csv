@@ -1,4 +1,4 @@
-country,sex,age_group,year,population_000
+country,sex,age_group,year,population_thousands
 afg,mf,total,1991,6646.7080078125
 afg,mf,youth,1991,2439.97900390625
 afg,mf,adult,1991,4206.72900390625
