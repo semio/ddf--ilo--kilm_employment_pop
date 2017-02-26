@@ -1,0 +1,158 @@
+{
+    "name": "ddf--ilo--kilm_employment_pop",
+    "language": {
+        "id": "en"
+    },
+    "resources": [
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "concept_type"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        },
+        {
+            "path": "ddf--datapoints--employment_thousands--by--country--sex--age_group--year.csv",
+            "name": "ddf--datapoints--employment_thousands--by--country--sex--age_group--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age_group"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "employment_thousands"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "sex",
+                    "age_group",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--employment_to_population_ratio--by--country--sex--age_group--year.csv",
+            "name": "ddf--datapoints--employment_to_population_ratio--by--country--sex--age_group--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age_group"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "employment_to_population_ratio"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "sex",
+                    "age_group",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--population_thousands--by--country--sex--age_group--year.csv",
+            "name": "ddf--datapoints--population_thousands--by--country--sex--age_group--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age_group"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "population_thousands"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "sex",
+                    "age_group",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--entities--age_group.csv",
+            "name": "ddf--entities--age_group",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age_group"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "age_group"
+            }
+        },
+        {
+            "path": "ddf--entities--country.csv",
+            "name": "ddf--entities--country",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "country"
+            }
+        },
+        {
+            "path": "ddf--entities--sex.csv",
+            "name": "ddf--entities--sex",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "sex"
+            }
+        }
+    ]
+}
